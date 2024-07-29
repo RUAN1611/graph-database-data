@@ -1,0 +1,11 @@
+﻿name,classification,designation,average_height,skin_colors,hair_colors,eye_colors,average_lifespan,homeworld,language,people,films,created,edited,id
+Human,mammal,sentient,180,"caucasian, black, asian, hispanic","blonde, brown, black, red","brown, blue, green, hazel, grey, amber",120,https://swapi.dev/api/planets/9/,Galactic Basic,"['66', '67', '68', '74']","['1', '2', '3', '4', '5', '6']",2014-12-10T13:52:11.567000Z,2014-12-20T21:36:42.136000Z,1
+Droid,artificial,sentient,n/a,n/a,n/a,n/a,indefinite,,n/a,"['2', '3', '8', '23']","['1', '2', '3', '4', '5', '6']",2014-12-10T15:16:16.259000Z,2014-12-20T21:36:42.139000Z,2
+Wookie,mammal,sentient,210,gray,"black, brown","blue, green, yellow, brown, golden, red",400,https://swapi.dev/api/planets/14/,Shyriiwook,"['13', '80']","['1', '2', '3', '6']",2014-12-10T16:44:31.486000Z,2014-12-20T21:36:42.142000Z,3
+Rodian,sentient,reptilian,170,"green, blue",n/a,black,unknown,https://swapi.dev/api/planets/23/,Galatic Basic,['15'],['1'],2014-12-10T17:05:26.471000Z,2014-12-20T21:36:42.144000Z,4
+Hutt,gastropod,sentient,300,"green, brown, tan",n/a,"yellow, red",1000,https://swapi.dev/api/planets/24/,Huttese,['16'],"['1', '3']",2014-12-10T17:12:50.410000Z,2014-12-20T21:36:42.146000Z,5
+Yoda's species,mammal,sentient,66,"green, yellow","brown, white","brown, green, yellow",900,https://swapi.dev/api/planets/28/,Galactic basic,['20'],"['2', '3', '4', '5', '6']",2014-12-15T12:27:22.877000Z,2014-12-20T21:36:42.148000Z,6
+Trandoshan,reptile,sentient,200,"brown, green",none,"yellow, orange",unknown,https://swapi.dev/api/planets/29/,Dosh,['24'],['2'],2014-12-15T13:07:47.704000Z,2014-12-20T21:36:42.151000Z,7
+Mon Calamari,amphibian,sentient,160,"red, blue, brown, magenta",none,yellow,unknown,https://swapi.dev/api/planets/31/,Mon Calamarian,['27'],['3'],2014-12-18T11:09:52.263000Z,2014-12-20T21:36:42.153000Z,8
+Ewok,mammal,sentient,100,brown,"white, brown, black","orange, brown",unknown,https://swapi.dev/api/planets/7/,Ewokese,['30'],['3'],2014-12-18T11:22:00.285000Z,2014-12-20T21:36:42.155000Z,9
+Sullustan,mammal,sentient,180,pale,none,black,unknown,https://swapi.dev/api/planets/33/,Sullutese,['31'],['3'],2014-12-18T11:26:20.103000Z,2014-12-20T21:36:42.157000Z,10
